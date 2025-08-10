@@ -5,5 +5,5 @@ The paper can be found here: [Mulder & Hoff (2024)](https://projecteuclid.org/jo
 
 # Refences
 
-Mulder, J., & Hoff, P. D. (2024). A latent variable approach for modeling relational data with multiple receivers. The Annals of Applied Statistics, 18(3), 2359-2381.
+Mulder, J., & Hoff, P. D. (2024). A latent variable approach for modeling relational data with multiple receivers. *The Annals of Applied Statistics, 18(3)*, 2359-2381.
 
